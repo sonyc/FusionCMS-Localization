@@ -15,11 +15,11 @@
   * translated by Rydik from http://sunrise-aion.com 
   */
 
-$lang['speed'] = "Geschwindigkeit";
+$lang['speed'] = "Tempo";
 
 $lang["bind"] = array(
 	0 => null,
-	1 => "Bindet wenn aufgehoben.",
+	1 => "Wird beim Aufheben gebunden.",
 	2 => "Bindet wenn ausgestattet.",
 	3 => "Bindet wenn in Benutzung.",
 	4 => "Quest Gegenstand"
